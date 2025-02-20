@@ -9,6 +9,4 @@
 
 
 
-*git clone git@github.com:username/repositoryname.git
-fh
- 
+* git clone git@github.com:username/repositoryname.git
